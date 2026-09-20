@@ -25,16 +25,6 @@
 
 <br>
 
-## GitHub-статистика
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bonyatitov&theme=radical&hide_border=true" />
-
-</div>
-
-<br>
-
 ## Связаться со мной
 
 <div align="center">
