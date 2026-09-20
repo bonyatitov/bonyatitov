@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bonyatitov&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bonyatitov&show_icons=true&theme=radical&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonyatitov&layout=compact&theme=radical&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonyatitov&theme=radical&hide_border=true" />
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bonyatitov&theme=redical&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bonyatitov&theme=radical&hide_border=true" width="100%"/>
 
 </div>
 
